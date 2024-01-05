@@ -276,7 +276,7 @@
           style="
             width: 35%;
             height: 450px;
-            background-image: url(/src/components/icons/ml1.jpg);
+            background-image: url(src/components/icons/ml1.png);
             background-position: center;
             background-size: cover;
           "
@@ -289,7 +289,7 @@
           style="
             width: 35%;
             height: 450px;
-            background-image: url(/src/components/icons/ml2.jpg);
+            background-image: url(src/components/icons/ml2.png);
             background-position: center;
             background-size: cover;
           "
@@ -307,7 +307,7 @@
           style="
             width: 45%;
             height: 450px;
-            background-image: url(/src/components/icons/dc1.jpg);
+            background-image: url(src/components/icons/dc1.png);
             background-position: center;
             background-size: cover;
           "
@@ -320,7 +320,7 @@
           style="
             width: 45%;
             height: 450px;
-            background-image: url(/src/components/icons/dc2.jpg);
+            background-image: url(src/components/icons/dc2.png);
             background-position: center;
             background-size: cover;
           "
@@ -338,7 +338,7 @@
           style="
             width: 35%;
             height: 450px;
-            background-image: url(/src/components/icons/ml3.jpg);
+            background-image: url(src/components/icons/ml3.png);
             background-position: center;
             background-size: cover;
           "
@@ -352,7 +352,7 @@
           style="
             width: 35%;
             height: 450px;
-            background-image: url(/src/components/icons/ml4.jpg);
+            background-image: url(src/components/icons/ml4.png);
             background-position: center;
             background-size: cover;
           "
@@ -420,7 +420,7 @@
           style="
             width: 30%;
             height: 400px;
-            background-image: url(/src/components/icons/cp1.jpeg);
+            background-image: url(src/components/icons/cp1.png);
             background-position: center;
             background-size: cover;
             border-radius: 20px;
@@ -588,7 +588,7 @@
           style="
             width: 30%;
             height: 400px;
-            background-image: url(/src/components/icons/cp2.jpeg);
+            background-image: url(src/components/icons/cp2.png);
             background-position: top;
             background-size: cover;
             border-radius: 20px;
@@ -671,7 +671,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k1.jpg);
+            background-image: url(src/components/icons/k1.png);
             background-position: center;
             background-size: cover;
           "
@@ -684,7 +684,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k9.jpg);
+            background-image: url(src/components/icons/k9.png);
             background-position: center;
             background-size: cover;
           "
@@ -697,7 +697,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k10.jpg);
+            background-image: url(src/components/icons/k10.png);
             background-position: center;
             background-size: cover;
           "
@@ -710,7 +710,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k11.jpg);
+            background-image: url(src/components/icons/k11.png);
             background-position: center;
             background-size: cover;
           "
@@ -729,7 +729,7 @@
           style="
             width: 35%;
             height: 450px;
-            background-image: url(/src/components/icons/k18.jpg);
+            background-image: url(src/components/icons/k18.png);
             background-position: center;
             background-size: cover;
           "
@@ -742,7 +742,7 @@
           style="
             width: 35%;
             height: 450px;
-            background-image: url(/src/components/icons/k19.jpg);
+            background-image: url(src/components/icons/k19.png);
             background-position: center;
             background-position-y: top;
             background-size: cover;
@@ -762,7 +762,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k4.jpg);
+            background-image: url(src/components/icons/k4.png);
             background-position: center;
             background-size: cover;
           "
@@ -775,7 +775,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k5.jpg);
+            background-image: url(src/components/icons/k5.png);
             background-position: center;
             background-size: cover;
           "
@@ -788,7 +788,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k6.jpg);
+            background-image: url(src/components/icons/k6.png);
             background-position: center;
             background-size: cover;
           "
@@ -801,7 +801,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k13.jpg);
+            background-image: url(src/components/icons/k13.png);
             background-position: center;
             background-size: cover;
           "
@@ -820,7 +820,7 @@
           style="
             width: 35%;
             height: 450px;
-            background-image: url(/src/components/icons/k14.jpg);
+            background-image: url(src/components/icons/k14.png);
             background-position: center;
             background-size: cover;
           "
@@ -833,7 +833,7 @@
           style="
             width: 35%;
             height: 450px;
-            background-image: url(/src/components/icons/k15.jpg);
+            background-image: url(src/components/icons/k15.png);
             background-position: center;
             background-size: cover;
           "
@@ -852,7 +852,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k7.jpg);
+            background-image: url(src/components/icons/k7.png);
             background-position: center;
             background-size: cover;
           "
@@ -865,7 +865,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k8.jpg);
+            background-image: url(src/components/icons/k8.png);
             background-position: center;
             background-size: cover;
           "
@@ -878,7 +878,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k16.jpg);
+            background-image: url(src/components/icons/k16.png);
             background-position: center;
             background-size: cover;
           "
@@ -891,7 +891,7 @@
           style="
             width: 20%;
             height: 450px;
-            background-image: url(/src/components/icons/k17.jpg);
+            background-image: url(src/components/icons/k17.png);
             background-position: center;
             background-size: cover;
           "
